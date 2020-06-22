@@ -1,0 +1,2 @@
+1. write a screenshot with a README
+2. optionally rewrite to use Localize Me
